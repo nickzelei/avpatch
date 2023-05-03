@@ -51,6 +51,11 @@ func main() {
 									Value: "--",
 									Tag:   "!!str",
 								},
+								{
+									Kind:  yaml.ScalarNode,
+									Value: "aws",
+									Tag:   "!!str",
+								},
 							}, argsNode.Content...)
 						}
 					}
