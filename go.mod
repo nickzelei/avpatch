@@ -1,4 +1,4 @@
-module github.com/nickzelei/avpatch
+module github.com/nickzelei/kctxpatch
 
 go 1.20
 
